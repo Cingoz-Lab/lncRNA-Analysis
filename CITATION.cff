@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "lncRNA Analysis Pipeline"
+abstract: >
+  End-to-end downstream analysis pipeline for RNA-seq differential
+  expression data with a focus on identifying key long non-coding RNAs (lncRNAs).
+  Includes QC plots, volcano/MA plots, GSEA Hallmark enrichment, and
+  sample-level visualisations.
+authors:
+  - family-names: Bora
+    given-names: Furkan Emre
+    affiliation: "Cingoz Lab, Bezmialem Vakıf University"
+repository-code: "https://github.com/Cingoz-Lab/lncRNA-Analysis"
+license: MIT
+version: "1.0.0"
+date-released: "2026-03-16"
+keywords:
+  - lncRNA
+  - RNA-seq
+  - differential expression
+  - GSEA
+  - bioinformatics
+  - R
